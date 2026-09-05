@@ -4,7 +4,7 @@
 
 Built for iQOO Hackathon 2026 · Open Innovation Track · Team Codorithm
 
-[Live Demo](https://balapraharsha.github.io/obscura-iqoo/) · [Pitch Deck](https://github.com/balapraharsha/obscura-iqoo/blob/main/Obscura_iQOO_Team_Codorithm) · [Video Walkthrough](https://drive.google.com/file/d/1sSEwgBvA1G4_6VYVnNMphOzZHqG5PWPo/view?usp=drive_link)
+[Live Demo](https://balapraharsha.github.io/obscura-iqoo/) · [Pitch Deck](https://github.com/balapraharsha/obscura-iqoo/blob/main/Obscura_iQOO_Team_Codorithm.pptx) · [Video Walkthrough](https://drive.google.com/file/d/1sSEwgBvA1G4_6VYVnNMphOzZHqG5PWPo/view?usp=drive_link)
 
 ---
 
